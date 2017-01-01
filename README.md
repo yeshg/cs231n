@@ -48,6 +48,10 @@ To install additional required packages such as numpy etc:
 cd assignment1  
 pip install -r requirements.txt  
 
+__Workaround to make matplotlib work on Mac__
+echo "backend: TkAgg" >> ~/matplotlib/matplotlibrc
+
+
 ---
 ###  Assignment2
 
