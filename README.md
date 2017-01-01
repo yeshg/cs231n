@@ -41,6 +41,10 @@ jupyter notebook
 
 To install required packages for the CS231n assignment1 refer to the following URL  
 > http://cs231n.github.io/assignments2016/assignment1/  
+
+__Additional python setup__ 
+To install additional required packages such as numpy etc:  
+>
 cd assignment1  
 pip install -r requirements.txt  
 
