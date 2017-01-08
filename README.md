@@ -35,6 +35,9 @@ source activate <environment>
 source activate py27  
 jupyter notebook  
 
+### Setup for Yesh's Chetak box
+source ~/venv/bin/activate 
+
 ---
 ###  Assignment1
 
